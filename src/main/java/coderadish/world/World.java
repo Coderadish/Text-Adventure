@@ -1,4 +1,4 @@
-package textadventure.world;
+package coderadish.world;
 
 import java.util.ArrayList;
 import java.util.List;

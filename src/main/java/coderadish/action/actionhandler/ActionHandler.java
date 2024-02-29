@@ -1,6 +1,6 @@
-package textadventure.action.actionhandler;
+package coderadish.action.actionhandler;
 
-import textadventure.Game;
+import coderadish.Game;
 
 /**
  *

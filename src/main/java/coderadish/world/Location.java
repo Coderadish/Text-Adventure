@@ -1,4 +1,4 @@
-package textadventure.world;
+package coderadish.world;
 
 /**
  *

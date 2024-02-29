@@ -1,4 +1,4 @@
-package textadventure;
+package coderadish;
 
 import java.io.IOException;
 

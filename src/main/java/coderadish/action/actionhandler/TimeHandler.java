@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package textadventure.action.actionhandler;
+package coderadish.action.actionhandler;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import textadventure.Game;
+import coderadish.Game;
 
 /**
  *

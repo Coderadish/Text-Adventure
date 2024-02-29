@@ -1,4 +1,4 @@
-package textadventure;
+package coderadish;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,12 +6,12 @@ import java.io.InputStreamReader;
 import java.io.PrintStream;
 import java.util.ArrayList;
 import java.util.List;
-import textadventure.action.actionhandler.ActionHandler;
-import textadventure.action.actionhandler.ErrorHandler;
-import textadventure.action.actionhandler.ExitHandler;
-import textadventure.action.actionhandler.TimeHandler;
-import textadventure.world.Location;
-import textadventure.world.World;
+import coderadish.action.actionhandler.ActionHandler;
+import coderadish.action.actionhandler.ErrorHandler;
+import coderadish.action.actionhandler.ExitHandler;
+import coderadish.action.actionhandler.TimeHandler;
+import coderadish.world.Location;
+import coderadish.world.World;
 
 /**
  *
